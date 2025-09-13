@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml hint="UintaKML-1.0" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2">
+  <Folder id="UintaKML-1.0">
+    <name>Agriculture to Residential Development</name>
+    <open>true</open>
+    <Document id="Area">
+      <name>Area</name>
+      <Style id="s_Area">
+        <IconStyle>
+          <color>ff3539e5</color>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <PolyStyle>
+          <color>ff3539e5</color>
+        </PolyStyle>
+      </Style>
+      <Schema id="d_Area" name="Area">
+        <SimpleField type="string" name="Name">
+          <displayName>Name</displayName>
+        </SimpleField>
+        <SimpleField type="string" name="Description">
+          <displayName>Description</displayName>
+        </SimpleField>
+        <SimpleField type="string" name="Attachments">
+          <displayName>Attachments</displayName>
+        </SimpleField>
+        <SimpleField type="string" name="Area">
+          <displayName>Area</displayName>
+        </SimpleField>
+        <SimpleField type="string" name="Date/Time">
+          <displayName>Date/Time</displayName>
+        </SimpleField>
+        <SimpleField name="User">
+          <displayName>User</displayName>
+        </SimpleField>
+      </Schema>
+      <Placemark id="zQNFj4aESdZk">
+        <name>Empty Land</name>
+        <Style>
+          <IconStyle>
+            <color>ff87b8de</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ff87b8de</color>
+            <width>2</width>
+          </LineStyle>
+          <PolyStyle>
+            <color>c887b8de</color>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Area">
+            <SimpleData name="Name">Empty Land </SimpleData>
+            <SimpleData name="Description">Area filled with soil and rocks, reserved for future residential development.</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Area">area: 5390.8 ft²
+perimeter: 311.2 ft</SimpleData>
+            <SimpleData name="Date/Time">06/09/2025 5:34 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>79.310371801257133,12.285659942651687
+79.310349673032761,12.285453555880004
+79.310226626694202,12.285472228975545
+79.310150519013405,12.285487626088388
+79.310061670839787,12.285506299181499
+79.310076758265495,12.285536438206183
+79.310118332505226,12.285568215217594
+79.31018203496933,12.285611130556806
+79.31025143712759,12.285646511136544
+79.31027926504612,12.285660597847528
+79.310371801257133,12.285659942651687</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="zQIwjL6IUAvU">
+        <name>Empty Land</name>
+        <Style>
+          <IconStyle>
+            <color>ff87b8de</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ff87b8de</color>
+            <width>2</width>
+          </LineStyle>
+          <PolyStyle>
+            <color>c887b8de</color>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Area">
+            <SimpleData name="Name">Empty Land </SimpleData>
+            <SimpleData name="Description">Vacant land, currently not used for agriculture or construction.</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Area">area: 4095.7 ft²
+perimeter: 263.2 ft</SimpleData>
+            <SimpleData name="Date/Time">06/09/2025 5:37 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>79.310010373592377,12.284927105080033
+79.310021102428436,12.284963796146911
+79.310009703040123,12.28497984848706
+79.310018755495548,12.285073541718202
+79.309931248426437,12.285144958214623
+79.309881962835789,12.285088283657124
+79.309804514050484,12.285080748888442
+79.309799820184708,12.284988693653661
+79.309922866523266,12.284947743805784
+79.310010373592377,12.284927105080033</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="zQYwtxceT34E">
+        <name>Empty Land</name>
+        <Style>
+          <IconStyle>
+            <color>ff87b8de</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ff87b8de</color>
+            <width>2</width>
+          </LineStyle>
+          <PolyStyle>
+            <color>c887b8de</color>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Area">
+            <SimpleData name="Name">Empty Land </SimpleData>
+            <SimpleData name="Description">Land under dispute/ownership issue, not in active use currently.</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Area">area: 6314.3 ft²
+perimeter: 354.8 ft</SimpleData>
+            <SimpleData name="Date/Time">06/09/2025 5:40 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>79.309304282069206,12.287146905416552
+79.309317022562027,12.287231097593111
+79.309317022562027,12.287315289742724
+79.309378378093243,12.287322824447413
+79.309396147727966,12.287329048768511
+79.309412911534309,12.287347394135091
+79.309458173811436,12.28734149741026
+79.309530928730965,12.287349032114188
+79.309554733335972,12.287335600685291
+79.309561103582382,12.287298582353317
+79.30957954376936,12.287283512942347
+79.309603683650494,12.287274995448804
+79.309636205434799,12.287274995448804
+79.309639893472195,12.287228476825378
+79.309660010039806,12.287218321350144
+79.309629164636135,12.287188837710191
+79.309513494372368,12.287181303001658
+79.309463873505592,12.287186544538052
+79.309417270123959,12.287172130312731
+79.309384077787399,12.287156078106356
+79.309327751398087,12.287140681091143
+79.309304282069206,12.287146905416552</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="zQhsMTyCDkUG">
+        <name>Empty Land</name>
+        <Style>
+          <IconStyle>
+            <color>ff87b8de</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ff87b8de</color>
+            <width>2</width>
+          </LineStyle>
+          <PolyStyle>
+            <color>c887b8de</color>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Area">
+            <SimpleData name="Name">Empty Land </SimpleData>
+            <SimpleData name="Description">Vacant land, currently not used for agriculture or construction.</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Area">area: 4858.8 ft²
+perimeter: 270.3 ft</SimpleData>
+            <SimpleData name="Date/Time">06/09/2025 5:43 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>79.309857152402401,12.283887304325573
+79.309841059148312,12.283827025894961
+79.309830330312252,12.283743815430014
+79.309831671416759,12.283710727796874
+79.309882298111916,12.283700572185882
+79.309926889836788,12.283694675379312
+79.309983216226101,12.283681571364232
+79.310015067458153,12.283714659001035
+79.310041889548302,12.283778213460055
+79.310070388019085,12.283826043094354
+79.310064353048801,12.283857820312324
+79.310000985860825,12.283880752322919
+79.309890009462833,12.283877803921657
+79.309857152402401,12.283887304325573</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="zNDgElHDYm0K">
+        <name>Residential Area 1</name>
+        <Style>
+          <IconStyle>
+            <color>ffebce87</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ffebce87</color>
+            <width>2</width>
+          </LineStyle>
+          <PolyStyle>
+            <color>c8ebce87</color>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Area">
+            <SimpleData name="Name">Residential Area 1</SimpleData>
+            <SimpleData name="Description">2011: Empty land
+
+2012: Not clearly visible in imagery
+
+2013: Converted into residential area.
+</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Area">area: 26104.3 ft²
+perimeter: 641.7 ft</SimpleData>
+            <SimpleData name="Date/Time">05/09/2025 7:44 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>79.310920648276806,12.284859619711527
+79.310947805643082,12.284918915109046
+79.310993067920208,12.284942174625987
+79.311017207801342,12.284963468548126
+79.311045706272125,12.285047333824741
+79.31106548756361,12.28512792308879
+79.310936070978642,12.285215719494721
+79.310831129550934,12.285253065718205
+79.310683272778988,12.285251100127626
+79.310496859252453,12.285262893670872
+79.310470037162304,12.28520261555539
+79.310442209243774,12.285167234915971
+79.310426451265812,12.285122026314216
+79.310398623347282,12.285104335989677
+79.310385547578335,12.284986400462349
+79.310458973050117,12.284954950979472
+79.310554526746273,12.284936605446051
+79.310765415430069,12.284889758810278
+79.310882762074471,12.284862240502859
+79.310920648276806,12.284859619711527</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="zPlw7JRp7tUy">
+        <name>Residential Area 2</name>
+        <Style>
+          <IconStyle>
+            <color>ffebce87</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ffebce87</color>
+            <width>2</width>
+          </LineStyle>
+          <PolyStyle>
+            <color>c8ebce87</color>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Area">
+            <SimpleData name="Name">Residential Area 2</SimpleData>
+            <SimpleData name="Description">2011: Empty / unclear imagery
+
+2014: Residential development observed
+
+2020: Confirmed as residential area</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Area">area: 1726.4 ft²
+perimeter: 171.7 ft</SimpleData>
+            <SimpleData name="Date/Time">06/09/2025 5:06 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>79.310967922210693,12.284168385085993
+79.310900866985321,12.284180833877294
+79.310901537537575,12.284243405424665
+79.310874715447426,12.284248974619256
+79.310900866985321,12.284318425741951
+79.310960546135902,12.284311218550821
+79.310999773442745,12.284306304556752
+79.311001114547253,12.284280096586883
+79.310983680188656,12.284212611052428
+79.310967922210693,12.284168385085993</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="zPX5OYDjiT0a">
+        <name>Residential Area 3</name>
+        <Style>
+          <IconStyle>
+            <color>ffebce87</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ffebce87</color>
+            <width>2</width>
+          </LineStyle>
+          <PolyStyle>
+            <color>c8ebce87</color>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Area">
+            <SimpleData name="Name">Residential Area 3</SimpleData>
+            <SimpleData name="Description">2018: Empty land 
+
+2019: Imagery unclear
+
+2020: Converted to residential use</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Area">area: 1791.4 ft²
+perimeter: 173.4 ft</SimpleData>
+            <SimpleData name="Date/Time">06/09/2025 4:59 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>79.311264641582966,12.285722841445146
+79.311273358762264,12.285797533742858
+79.311296828091145,12.285885329925335
+79.311387687921524,12.285856501331331
+79.311371594667435,12.285802120111322
+79.311345443129539,12.28573496256508
+79.311332032084465,12.285718582673153
+79.311264641582966,12.285722841445146</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="zNY3w127pu4E">
+        <name>Residential Area 4</name>
+        <Style>
+          <IconStyle>
+            <color>ffebce87</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ffebce87</color>
+            <width>2</width>
+          </LineStyle>
+          <PolyStyle>
+            <color>c8ebce87</color>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Area">
+            <SimpleData name="Name">Residential Area 4</SimpleData>
+            <SimpleData name="Description">2022 : Empty Land 
+
+2023 : Residential construction identified</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Area">area: 865.7 ft²
+perimeter: 117.6 ft</SimpleData>
+            <SimpleData name="Date/Time">05/09/2025 7:47 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>79.309876933693886,12.285593112667145
+79.309858828783035,12.28552169629236
+79.309779033064842,12.285538731392698
+79.309789426624775,12.285617682516383
+79.309836030006409,12.285605888989039
+79.309876933693886,12.285593112667145</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="zNSMYogrWfQk">
+        <name>Residential Area 5</name>
+        <Style>
+          <IconStyle>
+            <color>ffebce87</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ffebce87</color>
+            <width>2</width>
+          </LineStyle>
+          <PolyStyle>
+            <color>c8ebce87</color>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Area">
+            <SimpleData name="Name">Residential Area 5</SimpleData>
+            <SimpleData name="Description">2020 : Empty land 
+
+2021: Residential settlement observed</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Area">area: 3686.5 ft²
+perimeter: 240.9 ft</SimpleData>
+            <SimpleData name="Date/Time">05/09/2025 7:52 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>79.308883845806122,12.285505971583387
+79.308861382305622,12.285462073432527
+79.308840595185757,12.285412606104464
+79.308826513588428,12.285389019030871
+79.30874302983284,12.285419485667203
+79.30865217000246,12.285449952300024
+79.30866826325655,12.285508919966393
+79.308692403137684,12.285567232423489
+79.308716207742691,12.285595405853178
+79.308779239654541,12.285570180805795
+79.30879969149828,12.285549542128873
+79.308883845806122,12.285505971583387</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="zPqGUk6d3nW0">
+        <name>Residential Area 6</name>
+        <Style>
+          <IconStyle>
+            <color>ffebce87</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ffebce87</color>
+            <width>2</width>
+          </LineStyle>
+          <PolyStyle>
+            <color>c8ebce87</color>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Area">
+            <SimpleData name="Name">Residential Area 6</SimpleData>
+            <SimpleData name="Description">2016 : Empty land 
+2017 : Converted to residential area
+</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Area">area: 1694.4 ft²
+perimeter: 161.3 ft</SimpleData>
+            <SimpleData name="Date/Time">06/09/2025 5:00 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>79.310072399675846,12.287603246346503
+79.309961758553982,12.287622574480398
+79.309956394135952,12.28751970948025
+79.310070388019085,12.287505622868817
+79.310099557042122,12.287531502921807
+79.310087822377682,12.287583263020126
+79.310072399675846,12.287603246346503</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="zPdeMqJamAUO">
+        <name>Residential Area 7</name>
+        <Style>
+          <IconStyle>
+            <color>ffebce87</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ffebce87</color>
+            <width>2</width>
+          </LineStyle>
+          <PolyStyle>
+            <color>c8ebce87</color>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Area">
+            <SimpleData name="Name">Residential Area 7</SimpleData>
+            <SimpleData name="Description">2022: Empty land 
+
+2023: Star to work 
+
+2024: Recently developed as residential area
+</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Area">area: 2222.0 ft²
+perimeter: 177.4 ft</SimpleData>
+            <SimpleData name="Date/Time">06/09/2025 5:01 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>79.310408011078835,12.284434723571433
+79.310409016907215,12.284337098918035
+79.310464672744274,12.284321701737852
+79.310542121529579,12.284327270930778
+79.310562908649445,12.284395739234327
+79.310541115701199,12.284440947960874
+79.3104512616992,12.284452086341572
+79.310408011078835,12.284434723571433</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+    <Document id="Point">
+      <name>Point</name>
+      <Style id="s_Point">
+        <IconStyle>
+          <color>ffe5881e</color>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Schema id="d_Point" name="Point">
+        <SimpleField type="string" name="Name">
+          <displayName>Name</displayName>
+        </SimpleField>
+        <SimpleField type="string" name="Description">
+          <displayName>Description</displayName>
+        </SimpleField>
+        <SimpleField type="string" name="Attachments">
+          <displayName>Attachments</displayName>
+        </SimpleField>
+        <SimpleField type="string" name="Location">
+          <displayName>Location</displayName>
+        </SimpleField>
+        <SimpleField type="double" name="Latitude (WGS 84)">
+          <displayName>Latitude (WGS 84)</displayName>
+        </SimpleField>
+        <SimpleField type="double" name="Longitude (WGS 84)">
+          <displayName>Longitude (WGS 84)</displayName>
+        </SimpleField>
+        <SimpleField type="double" name="Elevation (ft)">
+          <displayName>Elevation (ft)</displayName>
+        </SimpleField>
+        <SimpleField type="double" name="Accuracy (ft)">
+          <displayName>Accuracy (ft)</displayName>
+        </SimpleField>
+        <SimpleField type="string" name="Date/Time">
+          <displayName>Date/Time</displayName>
+        </SimpleField>
+        <SimpleField name="User">
+          <displayName>User</displayName>
+        </SimpleField>
+      </Schema>
+      <Placemark id="zPvXkuLTkyNE">
+        <name>Hand Pump</name>
+        <Style>
+          <IconStyle>
+            <color>ff008000</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Hand Pump</SimpleData>
+            <SimpleData name="Description">Provides safe and accessible drinking water for all villagers.
+
+Commonly used for domestic needs such as cooking, cleaning, and washing.
+
+Ensures equal access to water, especially for families without private wells.</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.28595019°, 79.30857003°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.28595019</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.30857003</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">06/09/2025 4:46 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.308570027351379,12.28595019425028</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zPoLp9Qm8E7K">
+        <name>Water Tank 1</name>
+        <Style>
+          <IconStyle>
+            <color>ff800080</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Water Tank 1</SimpleData>
+            <SimpleData name="Description">The tank stores water and distributes it to residential households.
+
+It ensures a reliable drinking water supply and reduces dependency on private wells.
+
+This facility represents an important community-level water management system.</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.28288517°, 79.30961072°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.28288517</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.30961072</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">06/09/2025 4:46 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.309610724449158,12.282885173623244</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zPnyvPn2LMF0">
+        <name>Water Tank 2</name>
+        <Style>
+          <IconStyle>
+            <color>ffb0279c</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Water Tank 2</SimpleData>
+            <SimpleData name="Description">The tank stores water and distributes it to residential households.
+
+It ensures a reliable drinking water supply and reduces dependency on private wells.
+
+This facility represents an important community-level water management system.</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.28361736°, 79.31008112°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.28361736</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.31008112</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">06/09/2025 5:18 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.310081116855145,12.28361736168095</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zPAUuvaZMvd0">
+        <name>Water Tank 3</name>
+        <Style>
+          <IconStyle>
+            <color>ff800080</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Water Tank 3</SimpleData>
+            <SimpleData name="Description">The tank stores water and distributes it to residential households.
+
+It ensures a reliable drinking water supply and reduces dependency on private wells.
+
+This facility represents an important community-level water management system.</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.27921143°, 79.30709548°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.27921143</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.30709548</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">06/09/2025 4:47 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.307095482945442,12.27921142614785</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zPWwaMa67lqk">
+        <name>Water Tank 4</name>
+        <Style>
+          <IconStyle>
+            <color>ffb0279c</color>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Water Tank 4</SimpleData>
+            <SimpleData name="Description">The tank stores water and distributes it to residential households.
+
+It ensures a reliable drinking water supply and reduces dependency on private wells.
+
+This facility represents an important community-level water management system.</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.28396953°, 79.31200795°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.28396953</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.31200795</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">06/09/2025 5:18 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.312007948756218,12.283969531945054</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zPS5jC8yqbmU">
+        <name>Well 1</name>
+        <Style>
+          <IconStyle>
+            <color>ffe5881e</color>
+            <scale>1</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ffe5881e</color>
+            <width>1</width>
+          </LineStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Well 1</SimpleData>
+            <SimpleData name="Description">Individually owned and supports irrigation of nearby fields.
+
+In addition, wells also act as a secondary source of drinking water for households.
+
+0% suitable for drinking( used to agriculture)</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.28530221°, 79.31058336°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.28530221</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.31058336</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">06/09/2025 4:42 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.310583360493183,12.285302205477889</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zPEpba8vgF0C">
+        <name>Well 2</name>
+        <Style>
+          <IconStyle>
+            <color>ffe5881e</color>
+            <scale>1</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ffe5881e</color>
+            <width>1</width>
+          </LineStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Well 2</SimpleData>
+            <SimpleData name="Description">Individually owned and supports irrigation of nearby fields.
+
+In addition, wells also act as a secondary source of drinking water for households.
+
+0% suitable for drinking( mostly used to agriculture)</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.28448616°, 79.30974249°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.28448616</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.30974249</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">06/09/2025 4:36 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.309742487967014,12.284486156679648</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zPMUw4RD2Ftk">
+        <name>Well 3</name>
+        <Style>
+          <IconStyle>
+            <color>ffe5881e</color>
+            <scale>1</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ffe5881e</color>
+            <width>1</width>
+          </LineStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Well 3</SimpleData>
+            <SimpleData name="Description">Individually owned and supports irrigation of nearby fields.
+
+In addition, wells also act as a secondary source of drinking water for households.
+
+0% suitable for drinking( mostly used to agriculture)</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.28386830°, 79.30941425°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.28386830</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.30941425</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">06/09/2025 4:34 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.309414252638817,12.283868303517409</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zPUmKXSWJny0">
+        <name>Well 4</name>
+        <Style>
+          <IconStyle>
+            <color>ffe5881e</color>
+            <scale>1</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ffe5881e</color>
+            <width>1</width>
+          </LineStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Well 4</SimpleData>
+            <SimpleData name="Description">Individually owned and supports irrigation of nearby fields.
+
+In addition, wells also act as a secondary source of drinking water for households.
+
+85% suitable for drinking( householder prepos,mostly used to agriculture)</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.28527600°, 79.30900823°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.28527600</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.30900823</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">06/09/2025 4:38 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.309008233249187,12.285275997607201</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zPXjyS3scghk">
+        <name>Well 5</name>
+        <Style>
+          <IconStyle>
+            <color>ffe5881e</color>
+            <scale>1</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ffe5881e</color>
+            <width>1</width>
+          </LineStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Well 5</SimpleData>
+            <SimpleData name="Description">Individually owned and supports irrigation of nearby fields.
+
+In addition, wells also act as a secondary source of drinking water for households.
+
+40% suitable for drinking( mostly used to agriculture)</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.28518427°, 79.30810466°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.28518427</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.30810466</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">06/09/2025 4:42 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.308104664087296,12.28518427003926</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zPUOdYOhQE40">
+        <name>Well 6</name>
+        <Style>
+          <IconStyle>
+            <color>ffe5881e</color>
+            <scale>1</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ffe5881e</color>
+            <width>1</width>
+          </LineStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Well 6</SimpleData>
+            <SimpleData name="Description">Individually owned and supports irrigation of nearby fields.
+
+In addition, wells also act as a secondary source of drinking water for households.
+
+29% suitable for drinking( mostly used to agriculture)</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.28532546°, 79.30816770°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.28532546</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.30816770</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">06/09/2025 4:41 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.308167695999146,12.285325464960925</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="zPgvnmgHafOU">
+        <name>Well 7</name>
+        <Style>
+          <IconStyle>
+            <color>ffe5881e</color>
+            <scale>1</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ffe5881e</color>
+            <width>1</width>
+          </LineStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d_Point">
+            <SimpleData name="Name">Well 7</SimpleData>
+            <SimpleData name="Description">individually owned and supports irrigation of nearby fields.
+
+In addition, wells also act as a secondary source of drinking water for households.
+
+50% suitable for drinking ( mostly used for agriculture)</SimpleData>
+            <SimpleData name="Attachments" />
+            <SimpleData name="Location">12.28632693°, 79.30972572°</SimpleData>
+            <SimpleData name="Latitude (WGS 84)">12.28632693</SimpleData>
+            <SimpleData name="Longitude (WGS 84)">79.30972572</SimpleData>
+            <SimpleData name="Elevation (ft)" />
+            <SimpleData name="Accuracy (ft)" />
+            <SimpleData name="Date/Time">06/09/2025 4:42 pm</SimpleData>
+            <SimpleData name="User">Ezhil Nilavan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>79.309725724160671,12.286326931174976</coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Folder>
+</kml>
